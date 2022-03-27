@@ -11,6 +11,7 @@
   inputs.src-nimgame2-v0_6.ref   = "refs/tags/v0.6";
   inputs.src-nimgame2-v0_6.owner = "Vladar4";
   inputs.src-nimgame2-v0_6.repo  = "nimgame2";
+  inputs.src-nimgame2-v0_6.dir   = "";
   inputs.src-nimgame2-v0_6.type  = "github";
   
   inputs."sdl2_nim".owner = "nim-nix-pkgs";
