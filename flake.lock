@@ -183,11 +183,11 @@
       },
       "locked": {
         "dir": "devel",
-        "lastModified": 1667335625,
-        "narHash": "sha256-3cHvkh8A9R/dLlSj7/8YV7B0+eeP3wdkXnvNcVCVKIg=",
+        "lastModified": 1668750344,
+        "narHash": "sha256-wufvGW+3jaYJ8jfX5n9mscvjNOF+DmSnV14x1xfKxlw=",
         "owner": "nim-nix-pkgs",
         "repo": "nimgame2",
-        "rev": "7377dea0e60af66b6b95eab5e88ab60b56ceade5",
+        "rev": "191c155a20aee8b921599c2344407cf833bff268",
         "type": "github"
       },
       "original": {
@@ -211,11 +211,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667335625,
-        "narHash": "sha256-3cHvkh8A9R/dLlSj7/8YV7B0+eeP3wdkXnvNcVCVKIg=",
+        "lastModified": 1668750344,
+        "narHash": "sha256-wufvGW+3jaYJ8jfX5n9mscvjNOF+DmSnV14x1xfKxlw=",
         "owner": "nim-nix-pkgs",
         "repo": "nimgame2",
-        "rev": "7377dea0e60af66b6b95eab5e88ab60b56ceade5",
+        "rev": "191c155a20aee8b921599c2344407cf833bff268",
         "type": "github"
       },
       "original": {
@@ -239,11 +239,11 @@
       },
       "locked": {
         "dir": "v0_1",
-        "lastModified": 1667335625,
-        "narHash": "sha256-3cHvkh8A9R/dLlSj7/8YV7B0+eeP3wdkXnvNcVCVKIg=",
+        "lastModified": 1668750344,
+        "narHash": "sha256-wufvGW+3jaYJ8jfX5n9mscvjNOF+DmSnV14x1xfKxlw=",
         "owner": "nim-nix-pkgs",
         "repo": "nimgame2",
-        "rev": "7377dea0e60af66b6b95eab5e88ab60b56ceade5",
+        "rev": "191c155a20aee8b921599c2344407cf833bff268",
         "type": "github"
       },
       "original": {
@@ -267,11 +267,11 @@
       },
       "locked": {
         "dir": "v0_2",
-        "lastModified": 1667335625,
-        "narHash": "sha256-3cHvkh8A9R/dLlSj7/8YV7B0+eeP3wdkXnvNcVCVKIg=",
+        "lastModified": 1668750344,
+        "narHash": "sha256-wufvGW+3jaYJ8jfX5n9mscvjNOF+DmSnV14x1xfKxlw=",
         "owner": "nim-nix-pkgs",
         "repo": "nimgame2",
-        "rev": "7377dea0e60af66b6b95eab5e88ab60b56ceade5",
+        "rev": "191c155a20aee8b921599c2344407cf833bff268",
         "type": "github"
       },
       "original": {
@@ -295,11 +295,11 @@
       },
       "locked": {
         "dir": "v0_3",
-        "lastModified": 1667335625,
-        "narHash": "sha256-3cHvkh8A9R/dLlSj7/8YV7B0+eeP3wdkXnvNcVCVKIg=",
+        "lastModified": 1668750344,
+        "narHash": "sha256-wufvGW+3jaYJ8jfX5n9mscvjNOF+DmSnV14x1xfKxlw=",
         "owner": "nim-nix-pkgs",
         "repo": "nimgame2",
-        "rev": "7377dea0e60af66b6b95eab5e88ab60b56ceade5",
+        "rev": "191c155a20aee8b921599c2344407cf833bff268",
         "type": "github"
       },
       "original": {
@@ -323,11 +323,11 @@
       },
       "locked": {
         "dir": "v0_4",
-        "lastModified": 1667335625,
-        "narHash": "sha256-3cHvkh8A9R/dLlSj7/8YV7B0+eeP3wdkXnvNcVCVKIg=",
+        "lastModified": 1668750344,
+        "narHash": "sha256-wufvGW+3jaYJ8jfX5n9mscvjNOF+DmSnV14x1xfKxlw=",
         "owner": "nim-nix-pkgs",
         "repo": "nimgame2",
-        "rev": "7377dea0e60af66b6b95eab5e88ab60b56ceade5",
+        "rev": "191c155a20aee8b921599c2344407cf833bff268",
         "type": "github"
       },
       "original": {
@@ -351,11 +351,11 @@
       },
       "locked": {
         "dir": "v0_5",
-        "lastModified": 1667335625,
-        "narHash": "sha256-3cHvkh8A9R/dLlSj7/8YV7B0+eeP3wdkXnvNcVCVKIg=",
+        "lastModified": 1668750344,
+        "narHash": "sha256-wufvGW+3jaYJ8jfX5n9mscvjNOF+DmSnV14x1xfKxlw=",
         "owner": "nim-nix-pkgs",
         "repo": "nimgame2",
-        "rev": "7377dea0e60af66b6b95eab5e88ab60b56ceade5",
+        "rev": "191c155a20aee8b921599c2344407cf833bff268",
         "type": "github"
       },
       "original": {
@@ -379,11 +379,11 @@
       },
       "locked": {
         "dir": "v0_6",
-        "lastModified": 1667335625,
-        "narHash": "sha256-3cHvkh8A9R/dLlSj7/8YV7B0+eeP3wdkXnvNcVCVKIg=",
+        "lastModified": 1668750344,
+        "narHash": "sha256-wufvGW+3jaYJ8jfX5n9mscvjNOF+DmSnV14x1xfKxlw=",
         "owner": "nim-nix-pkgs",
         "repo": "nimgame2",
-        "rev": "7377dea0e60af66b6b95eab5e88ab60b56ceade5",
+        "rev": "191c155a20aee8b921599c2344407cf833bff268",
         "type": "github"
       },
       "original": {
@@ -407,11 +407,11 @@
       },
       "locked": {
         "dir": "v0_6_1",
-        "lastModified": 1667335625,
-        "narHash": "sha256-3cHvkh8A9R/dLlSj7/8YV7B0+eeP3wdkXnvNcVCVKIg=",
+        "lastModified": 1668750344,
+        "narHash": "sha256-wufvGW+3jaYJ8jfX5n9mscvjNOF+DmSnV14x1xfKxlw=",
         "owner": "nim-nix-pkgs",
         "repo": "nimgame2",
-        "rev": "7377dea0e60af66b6b95eab5e88ab60b56ceade5",
+        "rev": "191c155a20aee8b921599c2344407cf833bff268",
         "type": "github"
       },
       "original": {
@@ -435,11 +435,11 @@
       },
       "locked": {
         "dir": "v0_6_2",
-        "lastModified": 1667335625,
-        "narHash": "sha256-3cHvkh8A9R/dLlSj7/8YV7B0+eeP3wdkXnvNcVCVKIg=",
+        "lastModified": 1668750344,
+        "narHash": "sha256-wufvGW+3jaYJ8jfX5n9mscvjNOF+DmSnV14x1xfKxlw=",
         "owner": "nim-nix-pkgs",
         "repo": "nimgame2",
-        "rev": "7377dea0e60af66b6b95eab5e88ab60b56ceade5",
+        "rev": "191c155a20aee8b921599c2344407cf833bff268",
         "type": "github"
       },
       "original": {
